@@ -4,7 +4,7 @@
 
 - [GitHub 原始碼](https://github.com/29988122/notion-native-translate-unlock)
 - [直接安裝 userscript](https://raw.githubusercontent.com/29988122/notion-native-translate-unlock/main/notion-native-translate-unlock.user.js)
-- Greasy Fork：發布完成後補上連結。
+- [從 Greasy Fork 安裝](https://greasyfork.org/zh-TW/scripts/604316-notion-native-translate-unlock)
 
 ## 安裝與使用
 
